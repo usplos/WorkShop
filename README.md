@@ -1,2 +1,2 @@
 # WorkShop
-Some learning materials of statistical workshop
+Some learning materials of statistics
